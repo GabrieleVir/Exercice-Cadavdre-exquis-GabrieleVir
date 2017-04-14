@@ -14,3 +14,4 @@ Cadavre exquis
 # 1/2 litre de lait
 __2 bébés chats__
 ** racine de mandragore **
+## Resine de canabis
