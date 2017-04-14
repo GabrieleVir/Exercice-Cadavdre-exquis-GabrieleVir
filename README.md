@@ -9,5 +9,5 @@ Cadavre exquis
 ##curry
 ###cyprine
 # 1/2 litre de lait
-__2 bébés chats
-** racine de mandragore
+__2 bébés chats__
+** racine de mandragore **
