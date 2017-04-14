@@ -8,3 +8,6 @@ Cadavre exquis
 #crevettes
 ##curry
 ###cyprine
+# 1/2 litre de lait
+__2 bébés chats
+** racine de mandragore
